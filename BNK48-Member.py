@@ -79,7 +79,7 @@ m29.show()
 m30.show()    
 
 """
-Result:
+Code Result:
 
 --BNK48 First Generation Member list--
 >  Can
