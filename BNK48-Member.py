@@ -1,4 +1,6 @@
 print("--BNK48 First Generation Member list--")
+print("--------------------------------------------")
+
 
 class bnk48():
   def __init__(self,name,fullname,age,birthplace,status):
