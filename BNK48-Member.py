@@ -84,6 +84,7 @@ m30.show()
 Code Result:
 
 --BNK48 First Generation Member list--
+--------------------------------------------
 >  Can
 FullName :  Nayika Srinian
 Age :  20
