@@ -1,0 +1,18 @@
+import time
+now = time.localtime()
+hour = now.tm_hour
+print("{} {}".format("Now is",hour))
+if hour < 6: print('sleeping')
+elif hour < 7: print('Wake Up')
+elif hour < 8: print('Have breakfast')
+elif hour < 9: print('Singing')
+elif hour < 11: print('Dancing')
+elif hour < 12: print('Have Lunch')
+elif hour < 13: print('Play Games')
+elif hour < 14: print('Go Chill and Fresh')
+elif hour < 15: print('Rest')
+elif hour < 17: print('Have Dinner')
+elif hour < 18: print('Live Time')
+elif hour < 20: print('Consert')
+elif hour < 23: print('Fortune Time')
+else: print('sleeping')
